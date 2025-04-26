@@ -118,7 +118,7 @@ The **Main Findings** from this analysis:
 - Strong programming, cloud, and collaboration tool skills are key trends.
 
 ![Top paying job skills](assets\efac6b70-da36-4b12-a5f8-ef86e2b9baf7.png)
-*This is a visual representation of key findings from analysing the top paying skills. Here we see: The top 10 moost in-deman skills (top left), distribution of skill types (top right), Top 10 highest paying job titles (bottom left), and Companies offering the highest paying jobs (bottom right). ChatGPT generated this image from my SQL query results*
+*This is a visual representation of key findings from analysing the top paying skills. Here we see: The top 10 most in-demand skills (top left), distribution of skill types (top right), Top 10 highest paying job titles (bottom left), and Companies offering the highest paying jobs (bottom right). ChatGPT generated this image from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
 This analysis leveraged job posting data to surface the most commonly required skills, enabling a targeted focus on high-demand technical proficiencies.
@@ -149,7 +149,7 @@ The **Main Findings** from this analysis:
 - Tableau and Power BI are also highly sought-after, particularly for data visualization and business intelligence roles.
 
 ![Top in-demand skills](assets\7e0e59e6-e0ab-48f1-af2d-21cff60ed8d6.png)
-*Bar graph visualising the Top 5 in-deman skills within the Data Analys field. ChatGPT generated this image from my SQL query results*
+*Bar graph visualising the Top 5 in-demand skills within the Data Analytics field. ChatGPT generated this image from my SQL query results*
 
 ### 4. Skills Based on Salary
 Analyzing salary trends across various skills highlighted the highest-paying competencies, providing insights into the market value of in-demand technical expertise.
