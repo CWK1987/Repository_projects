@@ -10,7 +10,7 @@ Curious about where the real opportunities lie for data analysts, I launched thi
 Which skills command the biggest paychecks? Which ones are truly in demand?
 By answering these questions, I aimed to sharpen my own career strategy and help others navigate the data job landscape more effectively.
 
-The dataset powering this exploration comes from Luke Barousse’s SQL course (link here).
+The dataset powering this exploration comes from Luke Barousse’s SQL course ([link here](https://www.lukebarousse.com/)).
 It’s packed with information on job titles, salaries, skills, and locations — the perfect playground for SQL-driven analysis.
 
 ### 🔍 Key Questions Behind the Analysis
@@ -117,7 +117,7 @@ The **Main Findings** from this analysis:
 
 - Strong programming, cloud, and collaboration tool skills are key trends.
 
-![Top paying job skills](assets\efac6b70-da36-4b12-a5f8-ef86e2b9baf7.png)
+![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
 *This is a visual representation of key findings from analysing the top paying skills. Here we see: The top 10 most in-demand skills (top left), distribution of skill types (top right), Top 10 highest paying job titles (bottom left), and Companies offering the highest paying jobs (bottom right). ChatGPT generated this image from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
@@ -148,7 +148,7 @@ The **Main Findings** from this analysis:
 - Excel and Python follow, with 4,611 and 4,330 mentions respectively.
 - Tableau and Power BI are also highly sought-after, particularly for data visualization and business intelligence roles.
 
-![Top in-demand skills](assets\7e0e59e6-e0ab-48f1-af2d-21cff60ed8d6.png)
+![Top In-demand Skills](assets\1_top_in-deman_skills.png)
 *Bar graph visualising the Top 5 in-demand skills within the Data Analytics field. ChatGPT generated this image from my SQL query results*
 
 ### 4. Skills Based on Salary
